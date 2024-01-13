@@ -1,5 +1,5 @@
 # Basic usage
-[Example](/repo_img/example.jpg)
+![Example](/repo_img/example.jpg)
 ```
 /*
 Command:
@@ -47,6 +47,10 @@ tasklist | findstr "todoListMonitor.exe"
 taskkill /PID <PID>
 taskkill /F /PID <PID>
 ```
+
+# License
+Under MIT License, check ```License.txt``` for more details.
+
 
 # Refs
 https://github.com/joefazee/go-toto-app/tree/main
